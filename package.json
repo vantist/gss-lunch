@@ -1,0 +1,9 @@
+{
+  "name": "lunch",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "node-cron": "^1.2.1",
+    "request": "^2.81.0"
+  }
+}
